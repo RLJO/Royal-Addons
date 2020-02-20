@@ -87,3 +87,8 @@
 	path = OCA/edi12.0
 	url = git@github.com:OCA/edi.git
 	branch = 12.0
+
+[submodule "OCA/geospatial"]
+	path = OCA/geospatial
+	url = git@github.com:OCA/geospatial.git
+	branch = 12.0
