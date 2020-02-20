@@ -27,3 +27,8 @@
 	path = OCA/account-reconcile
 	url = git@github.com:OCA/account-reconcile.git
 	branch = 12.0
+
+[submodule "OCA/apps-store"]
+	path = OCA/apps-store
+	url = git@github.com:OCA/apps-store.git
+	branch = 12.0
