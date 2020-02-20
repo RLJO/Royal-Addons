@@ -52,3 +52,8 @@
 	path = OCA/helpdesk
 	url = git@github.com:OCA/helpdesk.git
 	branch = 12.0
+
+[submodule "OCA/interface-github"]
+	path = OCA/interface-github
+	url = git@github.com:OCA/interface-github.git
+	branch = 12.0
