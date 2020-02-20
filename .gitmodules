@@ -87,3 +87,8 @@
 	path = OCA/timesheet
 	url = git@github.com:OCA/timesheet.git
 	branch = 12.0
+
+[submodule "OCA/vertical-isp"]
+	path = OCA/vertical-isp
+	url = git@github.com:OCA/vertical-isp.git
+	branch = 12.0
