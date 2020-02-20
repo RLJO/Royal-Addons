@@ -107,3 +107,8 @@
 	path = OCA/l10n-finland
 	url = git@github.com:OCA/l10n-finland.git
 	branch = 12.0
+
+[submodule "OCA/l10n-germany"]
+	path = OCA/l10n-germany
+	url = git@github.com:OCA/l10n-germany.git
+	branch = 12.0
