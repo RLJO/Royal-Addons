@@ -87,3 +87,8 @@
 	path = OCA/l10n-usa
 	url = git@github.com:OCA/l10n-usa.git
 	branch = 12.0
+
+[submodule "OCA/manufacture"]
+	path = OCA/manufacture
+	url = git@github.com:OCA/manufacture.git
+	branch = 12.0
