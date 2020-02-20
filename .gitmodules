@@ -117,3 +117,8 @@
 	path = OCA/l10n-portugal
 	url = git@github.com:OCA/l10n-portugal.git
 	branch = 12.0
+
+[submodule "OCA/l10n-thailand"]
+	path = OCA/l10n-thailand
+	url = git@github.com:OCA/l10n-thailand.git
+	branch = 12.0
