@@ -92,3 +92,8 @@
 	path = OCA/manufacture
 	url = git@github.com:OCA/manufacture.git
 	branch = 12.0
+
+[submodule "OCA/oca-custom"]
+	path = OCA/oca-custom
+	url = git@github.com:OCA/oca-custom.git
+	branch = 12.0
