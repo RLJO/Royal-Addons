@@ -82,3 +82,8 @@
 	path = OCA/survey
 	url = git@github.com:OCA/survey.git
 	branch = 12.0
+
+[submodule "OCA/timesheet"]
+	path = OCA/timesheet
+	url = git@github.com:OCA/timesheet.git
+	branch = 12.0
