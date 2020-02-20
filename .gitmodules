@@ -1,0 +1,4 @@
+[submodule "OCA/account-budgeting"]
+	path = OCA/account-budgeting
+	url = git@github.com:OCA/account-budgeting.git
+	branch = 12.0
