@@ -12,3 +12,8 @@
 	path = OCA/l10n-usa
 	url = git@github.com:OCA/l10n-usa.git
 	branch = 12.0
+
+[submodule "OCA/maintenance"]
+	path = OCA/maintenance
+	url = git@github.com:OCA/maintenance.git
+	branch = 12.0
