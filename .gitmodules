@@ -338,3 +338,8 @@
 	path = OCA/website-cms
 	url = git@github.com:OCA/website-cms.git
 	branch = 12.0
+
+[submodule "RLJO/Last-Apps"]
+	path = RLJO/Last-Apps
+	url = git@github.com:RLJO/Last-Apps.git
+	branch = MUK
